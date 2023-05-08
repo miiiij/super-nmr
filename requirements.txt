@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy
-matplotlib.pyplot
+numpy == 1.24.2
+matplotlib.pyplot == 3.7.1
 os
 re
